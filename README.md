@@ -1,4 +1,4 @@
-# neighborhood-watch
+# neighHood-App
 #### Application for users to join and find the posts about their neighbourhood, Monday Feb,2020
 #### By **OPANA JOHN**
 
