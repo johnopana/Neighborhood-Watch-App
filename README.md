@@ -1,4 +1,4 @@
-# neighHood-App
+# NeighHood-App
 #### Application for users to join and find the posts about their neighbourhood, Monday Feb,2020
 #### By **OPANA JOHN**
 
@@ -7,7 +7,7 @@ This is an app that allow users to be updated on what is happenning on their nei
 
 ## Project live site
   This is the live .[ Click for the link]()
- ![Image]
+ 
  
  ![alt text](static/img/awwards.png)
 ## Features
@@ -31,19 +31,19 @@ If user has no account, they click on `sign up` | User signs up | User is redire
 
 
 ## Setup/Installation requirements
-1.Clone or download and unzip the repository from github,https://github.com/johnopana/neighHood-App.git
+1.Clone or download and unzip the repository from github,https://github.com/johnopana/NeighHood-App.git
 
 2. Activate virtual environment using python3.6 as default handler virtualenv -p /usr/bin/python3.6 venv && source venv/bin/activate
 
 3. Install dependancies that will create an environment for the app to run pip3 install -r requirements.txt
 4. Create the Database
 - psql
-- CREATE DATABASE watchhood;
+- CREATE DATABASE baba;
 
 4. Create .env file and paste paste the following filling where appropriate:
 
 -SECRET_KEY = '<Secret_key>'
--DBNAME = 'instacopy'
+-DBNAME = 'baba'
 -USER = '<Username>'
 -PASSWORD = '<password>'
 -DEBUG = True
@@ -69,8 +69,8 @@ If user has no account, they click on `sign up` | User signs up | User is redire
 * PYTHON VIRTULENV
 * POSTGRESS
 ## Support and contact details
-contact me @ titusouko@gmail.com
+contact me @ johnopana2016@gmail.com
 ### License
 The project is under[MIT license](/blob/master/LICENSE)
-Copyright &copy; 2019.All rigths reserved
+Copyright &copy; 20120.All rigths reserved
   
