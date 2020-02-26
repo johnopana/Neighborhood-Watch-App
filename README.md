@@ -6,7 +6,7 @@
 This is an app that allow users to be updated on what is happenning on their neighborhoods
 
 ## Project live site
-  This is the live .[ Click for the link]()
+  This is the live .()https://opana0717.herokuapp.com/
  
  
  ![alt text](static/img/awwards.png)
