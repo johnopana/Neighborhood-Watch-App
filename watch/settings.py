@@ -83,9 +83,9 @@ WSGI_APPLICATION = 'watch.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'morning',
+        'NAME': 'newme',
         'USER': 'moringa',
-        'PASSWORD': 'opana'
+        'PASSWORD': 'opana',
     }
 }
 
