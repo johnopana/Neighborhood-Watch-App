@@ -10,7 +10,7 @@ class Neighborhood(models.Model):
     occupants = models.PositiveIntegerField()
     health_contact = models.PositiveIntegerField()
     police_contact = models.PositiveIntegerField()
-    hood_pic = models.ImageField(upload_to='images/', blank=True)
+    hood_pic = models.ImageField(upload_to='images/', default='img/jaba.jpg')
     admin = models.ForeignKey(User, on_delete=models.CASCADE)
 
     def create_neigborhood(self):
